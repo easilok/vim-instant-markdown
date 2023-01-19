@@ -1,0 +1,1 @@
+../markdown/instant-markdown.vim
